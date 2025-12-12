@@ -1,4 +1,4 @@
-# Dynamic Prediction of Sepsis-Induced Coagulopathy and Progression to Disseminated  Intravascular Coagulation Using MIMIC-IV
+# Dynamic Two-Stage Early Warning System for Sepsis-Induced Coagulopathy and Progression to Disseminated Intravascular Coagulation: A MIMIC-IV Study
 
 This repository contains the code and workflow for a two-stage predictive modeling framework designed to identify:<br>
 1. Sepsis-Induced Coagulopathy (SIC) using ISTH SIC criteria, and<br>
